@@ -1,0 +1,7 @@
+//Zian Choudhury
+//131048209
+//OOP244NJJ
+//zchoudhury@myseneca.ca
+//03/31/2021
+
+This workshop introduced the use of templates to reduce repetitive bodies of code that use the same body of code however with different types. This can reduce the overall code length and make it simpler to implement one function to do the work for several classes rather than each class having their own method. The caveat to this is that it means there must be documentation for the requirements of the types so that the function can work properly. The difficulty especially is that errors related to templates are vague by nature further emphasising the need for good documentation. One issue I encountered during the workshop is with the function call/arguments in that I had was under the impression that the collections and array are two separate types. As such I used the typename directly for both cases. In trying to correct the error I was fixated in how the function was called. However, reading the requirements of the function call due to the error of no found function with the parameters provided (no function with Collection<Car>, Car, Åc) cleared up the issue. From that I understood how to correct the arguments of the function to include the ÅgCollection<T1>&Åh instead of ÅgT1&". 

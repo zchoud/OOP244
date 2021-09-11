@@ -1,0 +1,6 @@
+﻿  TextFile.cpp
+F:\Documents\School\Seneca\Semester 2\OOP244\repos\Lab 6\WS06\lab\TextFile.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+F:\Documents\School\Seneca\Semester 2\OOP244\repos\Lab 6\WS06\lab\TextFile.cpp(188,29): warning C4018: '<': signed/unsigned mismatch
+  w6p1_tester.cpp
+  Generating Code...
+  lab.vcxproj -> F:\Documents\School\Seneca\Semester 2\OOP244\repos\Lab 6\WS06\lab\Debug\lab.exe

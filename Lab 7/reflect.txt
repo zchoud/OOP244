@@ -1,0 +1,6 @@
+//Zian Choudhury
+//131048209
+//OOP244NJJ
+//zchoudhury@myseneca.ca
+//03/16/2021
+This workshop introduced the use of inheritance between classes. The two classes are the derived class which is the child of what is called the base class. In this relation, the derived class will inherit the public members of the base class. In the case of this workshop there was only 1 derived class however with additional derived classes off 1 base class (car, motorcycle ect) that will have the same properties, this reduces code repetition. In these cases, the base class will act as a template which the derived will build off. However, since the derived class only has access to the public members of the base class practice of creating members to access members need to be created in a safe manner. The other alternative is in the form of protected privacy where a derived class can access but not the main or other classes. This was used for one function that was made as it is used for both the vehicle and truck class. When creating members, the derived class can used shadowed members that are of the same name and will call on the base class member to hide the base class private members from its derived class. 

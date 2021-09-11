@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Documents\School\Seneca\Semester 2\OOP244\repos\Lab 9\main.cpp(39,19): warning C4091: '': ignored on left of 'sdds::Collection<sdds::Car>' when no variable is declared
+  lab.vcxproj -> F:\Documents\School\Seneca\Semester 2\OOP244\repos\Lab 9\Debug\lab.exe
